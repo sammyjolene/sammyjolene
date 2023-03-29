@@ -12,7 +12,7 @@ I'm Sam, an enthusiastic and curious software developer. In the past I have been
 - Python 
 - HTML
 - CSS
-- fast.ai 
+- Machine Learning
 
 📫 How to reach me: ...
 - [LinkedIn](https://www.linkedin.com/in/sjschnider/)
