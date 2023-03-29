@@ -15,5 +15,5 @@ I'm Sam, an enthusiastic and curious software developer. In the past I have been
 - Machine Learning
 
 📫 How to reach me: ...
-- [LinkedIn](https://www.linkedin.com/in/sjschnider/)
+- [LinkedIn](https://www.linkedin.com/in/sjshorey/)
 - <sammyshorey@gmail.com>
