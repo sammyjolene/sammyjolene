@@ -6,7 +6,6 @@ I'm Sam, an enthusiastic and curious software developer. In the past I have been
 - [sammyjolene/Meditation-Timer-Just](https://github.com/sammyjolene/Meditation-Timer-Just) - A meditation timer that doesn't do anything except ding when you want it to
 - [sammyjolene/recipe_scraper](https://github.com/sammyjolene/recipe_scraper) - An online recipe scraper 
 - [Sunday Pancakes](https://sundaypancakes.fly.dev/) - An attempt to manage contributions and attendance at a weekly pancake event
-- [Cat or Dog](https://huggingface.co/spaces/sammyjolene/model1) - Trained model via [fast.ai](fast.ai) Part 1 to identify a cat from a dog
 
 🌱 I’m currently learning ...
 - Django 
